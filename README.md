@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java DB, HTML, CSS, JavaScript**
 
-- 💬 Ask me about **Java,**
+- 💬 Ask me about **Object oriented programming principles and anything Java!**
 
 - 📫 How to reach me **bojidarborisov72@gmail.com**
 
