@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Borisov</h1>
-<h3 align="center">A passionate software developer from Bulgaria</h3>
+<h3 align="center">A passionate software development learner from Bulgaria</h3>
 
 - 🌱 I’m currently learning **Java DB, HTML, CSS, JavaScript**
 
