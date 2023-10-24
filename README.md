@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Borisov</h1>
-<h3 align="center">A passionate software development learner from Bulgaria</h3>
+<h3 align="center">A passionate software development student from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozhidarborisov&label=Profile%20views&color=0e75b6&style=flat" alt="bozhidarborisov" /> </p>
 
