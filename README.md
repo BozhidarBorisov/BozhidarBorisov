@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozhidarborisov&label=Profile%20views&color=0e75b6&style=flat" alt="bozhidarborisov" /> </p>
 
-- 🌱 I’m currently learning **Java DB, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 💬 Ask me about **Object oriented programming principles and anything Java!**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/божидар-борисов-364916250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/божидар-борисов-364916250" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bozhidar-borisov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bozhidar-borisov" height="30" width="40" /></a>
 <a href="https://fb.com/bojidar borisov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bojidar borisov" height="30" width="40" /></a>
 <a href="https://instagram.com/bojofitnesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojofitnesa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/bozhidarborisov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bozhidarborisov/" height="30" width="40" /></a>
