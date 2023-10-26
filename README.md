@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozhidarborisov&label=Profile%20views&color=0e75b6&style=flat" alt="bozhidarborisov" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
-
+- 🌱 I’m currently learning **JavaScript**
+\
 - 💬 Ask me about **Object oriented programming principles and anything Java!**
 
 - 📫 How to reach me **bojidarborisov72@gmail.com**
